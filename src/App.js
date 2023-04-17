@@ -14,7 +14,6 @@ export default function MyApp() {
   return (
     <div>
 <MyButton />
-
       <MyButton />
     </div>
   );
