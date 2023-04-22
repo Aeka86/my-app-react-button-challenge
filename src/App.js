@@ -3,6 +3,7 @@ import './App.css';
 
 function MyButton() {
   return (
+    
     <button className='button'>
       Button
     </button>
@@ -13,8 +14,9 @@ function MyButton() {
 export default function MyApp() {
   return (
     <div>
-<MyButton />
-      <MyButton />
+    <MyButton />
+    <MyButton />
+      
     </div>
   );
 }
